@@ -28,6 +28,6 @@
 
 <h2>My Stats</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samera1&hide_progress=true)](https://github.com/samera1/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samera1&hide_progress=false)](https://github.com/samera1/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samera1)](https://github.com/samera1/github-readme-stats)
